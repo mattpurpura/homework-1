@@ -9,6 +9,7 @@ body {
     background: #777777;
     width: 960px;
     font-size: 18px;
+    margin: 0 auto;
 }
 
 
@@ -65,10 +66,12 @@ header {
     width: 440px;
     height: 240px;
     margin-bottom: 20px;
+    padding: 100px;
 }
 
 footer {
     background: #ebebeb;
     clear: both;
     height: 100px;
+    padding: 40px;
 }
